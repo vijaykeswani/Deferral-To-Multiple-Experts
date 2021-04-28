@@ -1,7 +1,7 @@
 This folder contains code for the joint learning framework for simultaneously learning a classifier and a deferrer. The complete model and analysis are presented in the following paper:
 
-*Towards Unbiased and Accurate Deferral to Multiple Experts*
-Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi
+**Towards Unbiased and Accurate Deferral to Multiple Experts**
+*Vijay Keswani, Matthew Lease, Krishnaram Kenthapadi*
 https://arxiv.org/abs/2102.13004
 
 The files in this folder can be used for implementing the framework
